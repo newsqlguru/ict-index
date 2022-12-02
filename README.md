@@ -16,7 +16,11 @@
     - i.e. 2022-09-10-070004-FgacYSN9QEo-transcription.json
     - This naming convention shows the date and time of publication by ICT.
     - When searching for terms note the file name to understand when the term has been used.
-    
+ 
+ ### Known Issues
+ - Copy and Paste into Github's Search Bar returns no results except for ReadMe file matches.
+    - i.e. If a search term is copied and pasted into the search bar, the results are not valid.
+    - When the same term is typed into the search bar the results are returned as expected. (No idea why this is the case)
 
 ### Use Case
 - Keyword Search
@@ -40,6 +44,7 @@
 - Review the content of interest
     
     ![SelectURL](./readme-resources/ReferenceVideoOffset.jpg)
+<<<<<<< HEAD
 
 ### Glossary of Terms
 
@@ -96,3 +101,5 @@
 | 𝚂𝚂𝙻    |     𝚂𝚎𝚕𝚕 𝚂𝚒𝚍𝚎 𝙻𝚒𝚚𝚞𝚒𝚍𝚒𝚝𝚢    |
 | 𝚃𝚂     |     𝚃𝚞𝚛𝚝𝚕𝚎 𝚂𝚘𝚞𝚙     |
 
+=======
+>>>>>>> df73b09512f6e6dd9d3399bfd90b9ca46f143f43
