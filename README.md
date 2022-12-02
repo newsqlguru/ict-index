@@ -12,8 +12,8 @@
 - The file naming convention is videoId_transcription.json
 - The video id can be used for reference if needed.
 - There is a 1:1 relationship between video and transcription file.
-- File Naming Convention (yyyyMMddhhmmss-videoId-transcription.json) 
-    - i.e. 20220910070004-FgacYSN9QEo-transcription.json
+- File Naming Convention (yyyy-MM-dd-hhmmss-videoId-transcription.json) 
+    - i.e. 2022-09-10-070004-FgacYSN9QEo-transcription.json
     - This naming convention shows the date and time of publication by ICT.
     - When searching for terms note the file name to understand when the term has been used.
     
