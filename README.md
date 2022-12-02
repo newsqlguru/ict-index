@@ -16,7 +16,11 @@
     - i.e. 2022-09-10-070004-FgacYSN9QEo-transcription.json
     - This naming convention shows the date and time of publication by ICT.
     - When searching for terms note the file name to understand when the term has been used.
-    
+ 
+ ### Known Issues
+ - Copy and Paste into Github's Search Bar returns no results except for ReadMe file matches.
+    - i.e. If a search term is copied from the glossary table below and pasted into the search bar, the results are not valid.
+    - When the same term is typed into the search bar the results are returned as expected. (No idea why this is the case)
 
 ### Use Case
 - Keyword Search
