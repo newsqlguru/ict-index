@@ -1,5 +1,6 @@
 # ICT-Index
 ## Keyword Search for Transcribed ICT Video Content
+![ICT](./readme-resources/ict-wordcloud.svg)
 
 ### Github Search Syntax Reference
 - Official Docs
@@ -45,4 +46,3 @@
     
     ![SelectURL](./readme-resources/ReferenceVideoOffset.jpg)
 
-    ![ICT](./readme-resources/ict-wordcloud.svg)
