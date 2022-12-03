@@ -44,3 +44,5 @@
 - Review the content of interest
     
     ![SelectURL](./readme-resources/ReferenceVideoOffset.jpg)
+
+    ![ICT](./readme-resources/ict-wordcloud.svg)
