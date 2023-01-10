@@ -3,6 +3,10 @@
 ![ICT](./readme-resources/ict-wordcloud.svg)
 
 ### Github Search Syntax Reference
+- Beta Search Syntax
+  - https://cs.github.com/about/syntax
+![image](https://user-images.githubusercontent.com/13722748/211634801-d63ac3aa-bcb4-4228-a599-83ab11ade198.png)
+
 - Official Docs
     - https://docs.github.com/en/search-github/getting-started-with-searching-on-github/about-searching-on-github
 
