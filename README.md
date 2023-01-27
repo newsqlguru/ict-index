@@ -1,6 +1,8 @@
 # ICT-Index
 ## Keyword Search for Transcribed ICT Video Content
 ![ICT](./readme-resources/ict-wordcloud.svg)
+- The content of this repo and wiki is not and should not be considered financial advice. 
+
 
 ### Github Search Syntax Reference
 - Beta Search Syntax
