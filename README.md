@@ -1,8 +1,32 @@
 # ICT-Index
 ## Keyword Search for Transcribed ICT Video Content
 ![ICT](./readme-resources/ict-wordcloud.svg)
+- The content of this repo and wiki is not and should not be considered financial advice. 
+
 
 ### Github Search Syntax Reference
+- Beta Search Syntax
+  - https://cs.github.com/about/syntax
+![image](https://user-images.githubusercontent.com/13722748/211634801-d63ac3aa-bcb4-4228-a599-83ab11ade198.png)
+
+- The ict-index repo has been enrolled into the new search beta. Github added a few features to search in this pre-release.
+Boolean Operators are probably the most relevant to key word and term search. We can now use AND, OR, NOT and parentheses to build better search queries.
+
+- Examples:
+
+- Complete search term, will return results with the entire search term only.
+  - `repo:damien-johnston/ict-index "smt divergence"`
+
+- AND operator, will return results with "smt" and "divergence" key words.
+  - `repo:damien-johnston/ict-index  smt AND divergence`
+
+- OR operator, will return results with "smt" or "divergence". 
+  - Warning use parentheses to ensure the search results are what is expected.
+  - `repo:damien-johnston/ict-index  (smt OR divergence)`
+
+- Combined Logical Query Operators, will return results with "smt" and "correlation" or "divergence"
+  - `repo:damien-johnston/ict-index  smt AND (correlation OR divergence)`
+
 - Official Docs
     - https://docs.github.com/en/search-github/getting-started-with-searching-on-github/about-searching-on-github
 
