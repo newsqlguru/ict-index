@@ -1,1 +1,1 @@
-test of directory search for ict concepts
+test of directory search for ict concepts.
