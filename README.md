@@ -15,7 +15,7 @@ Boolean Operators are probably the most relevant to key word and term search. We
 - Examples:
 
 - Complete search term, will return results with the entire search term only.
-  - `repo:damien-johnston/ict-index "smt divergence"`
+  - `repo:newsqlguru/ict-index "smt divergence"`
 
 - AND operator, will return results with "smt" and "divergence" key words.
   - `repo:newsqlguru/ict-index  smt AND divergence`
