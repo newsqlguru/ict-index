@@ -15,17 +15,17 @@ Boolean Operators are probably the most relevant to key word and term search. We
 - Examples:
 
 - Complete search term, will return results with the entire search term only.
-  - `repo:damien-johnston/ict-index "smt divergence"`
+  - `repo:newsqlguru/ict-index "smt divergence"`
 
 - AND operator, will return results with "smt" and "divergence" key words.
-  - `repo:damien-johnston/ict-index  smt AND divergence`
+  - `repo:newsqlguru/ict-index  smt AND divergence`
 
 - OR operator, will return results with "smt" or "divergence". 
   - Warning use parentheses to ensure the search results are what is expected.
-  - `repo:damien-johnston/ict-index  (smt OR divergence)`
+  - `repo:newsqlguru/ict-index  (smt OR divergence)`
 
 - Combined Logical Query Operators, will return results with "smt" and "correlation" or "divergence"
-  - `repo:damien-johnston/ict-index  smt AND (correlation OR divergence)`
+  - `repo:newsqlguru/ict-index  smt AND (correlation OR divergence)`
 
 - Official Docs
     - https://docs.github.com/en/search-github/getting-started-with-searching-on-github/about-searching-on-github
